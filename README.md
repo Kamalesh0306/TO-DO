@@ -42,13 +42,13 @@ Make sure you have the following installed:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/takitajwar17/Simple-Todo-List-Refactored.git
+   git clone https://github.com/Kamalesh0306/TO-DO.git
    ```
 
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd Simple-Todo-List-Refactored
+   cd TO-DO
    ```
 
 3. **Open `index.html` in a Browser:**
